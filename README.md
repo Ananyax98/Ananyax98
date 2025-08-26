@@ -1,103 +1,85 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Ananya Singh</h1>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  
+  Hi, I'm Ananya Singh  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+</h1>
+
 <h3 align="center">🚀 Aspiring Software & Data Engineer | Full-Stack Developer | Machine Learning Enthusiast</h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F76D57&center=true&vCenter=true&width=600&lines=Passionate+Developer+%26+Problem+Solver;Data+Engineer+with+Azure+%26+PySpark;Full-Stack+Web+Developer;Machine+Learning+%26+AI+Explorer;Hackathon+Contributor+%7C+Team+Player" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C2FF&center=true&vCenter=true&width=650&lines=Data+Engineer+Intern+%7C+Flask+%26+ML+Developer;Cloud+%26+Big+Data+Explorer;Full-Stack+Web+Developer;Machine+Learning+%26+AI+Enthusiast;Hackathon+Contributor+%7C+Innovator" alt="Typing Animation">
 </p>
 
 ---
 
 ## 🌟 About Me  
 
-🎓 Pursuing **B.Tech in Computer Science & Engineering** @ SRMCEM, Lucknow (CGPA: 8.2)  
-💼 Currently working as a **Data Engineer Intern @ Tranzita Systems** → focused on **Azure Databricks, PySpark, ETL workflows, and Power BI dashboards**  
-🧑‍💻 Skilled in **Full-Stack Development, Machine Learning, and Data Engineering**  
-⚡ Experienced hackathon participant (**Smart India Hackathon, SheBuilds**) building impactful solutions  
-🌱 Deepening expertise in **Cloud Deployments, PySpark, and Big Data Engineering**  
+✨ I am a **Computer Science Engineering graduate** who loves turning ideas into reality through technology. I build **ETL pipelines, optimize large datasets, and design dashboards** using **Azure Databricks, PySpark, and Power BI**.  
+
+💡 My passion lies in combining **data engineering, full-stack development, and machine learning** to build **intelligent, scalable, and impactful solutions**.  
+
+⚡ I actively participate in hackathons like **Smart India Hackathon (SIH)** and **SheBuilds Hackathon**, where I’ve built projects focused on **MSME solutions and women empowerment**.  
+
+🌱 Currently, I am exploring **Cloud Deployments, Big Data Engineering, and Advanced AI systems** to grow as a versatile engineer.  
 
 ---
 
-## 🔧 Tech Stack  
+## 🔧 Skills & Tools  
 
 <p align="center">
-  
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  
-  <!-- Cloud & Data -->
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Delta%20Lake-3EBCD2?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  
-  <!-- ML & Tools -->
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0A0A0A?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4E78A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,php,html,css,javascript,sql" height="50"/>
+</p>
 
+<p align="center">
+  <!-- Data Engineering & Cloud -->
+  <img src="https://skillicons.dev/icons?i=azure" height="50"/> 
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Delta%20Lake-3EBCD2?style=for-the-badge&logo=databricks&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>
+</p>
+
+<p align="center">
+  <!-- Machine Learning -->
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0A0A0A?style=for-the-badge&logo=plotly&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Seaborn-4E78A0?style=for-the-badge&logo=python&logoColor=white" height="30"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects  
 
-- 🌍 **EcoProphet – Intelligent CO2 Forecasting**  
-  Flask + Scikit-Learn web app that predicts CO2 emissions. Integrated with **Gemini API** for actionable eco-friendly recommendations.  
+🚀 **EcoProphet – Intelligent CO2 Forecasting**  
+🌍 A Flask + Scikit-Learn web app that predicts CO2 emissions and integrates **Gemini API** for eco-friendly recommendations.  
 
-- 👩‍💻 **SheShares – Women Safety Platform**  
-  A responsive web application for safety and empowerment with **real-time chatbot assistance** using HTML, CSS, and JavaScript.  
+👩‍💻 **SheShares – Women Safety Platform**  
+🔐 A responsive web app with a chatbot built using HTML, CSS, and JavaScript for real-time safety guidance.  
 
-- ✈️ **TourAndTravels – Online Travel System**  
-  Travel booking system built using **PHP + MySQL** with optimized queries for performance & security.  
+✈️ **TourAndTravels – Online Travel System**  
+🛫 Travel booking platform developed in **PHP + MySQL**, optimized for security & performance.  
 
-- 🗣️ **3D Conversational Web App with AI Avatar**  
-  Interactive **ZEPETO-based avatar** integrated with **Three.js, Google Speech API, gTTS, and PaLM-2/ChatGPT**. Hosted on **Vercel** with CI/CD pipeline.  
+🗣️ **3D Conversational Web App with AI Avatar**  
+🤖 Created using **ZEPETO, Three.js, Google Speech API, gTTS, and PaLM-2/ChatGPT**. Hosted on **Vercel** with CI/CD pipelines.  
 
 ---
 
 ## 🏆 Hackathons  
 
-- 🥇 **Smart India Hackathon (SIH)** – Designed digital solutions to assist MSMEs with backend systems & UX improvements.  
-- 💡 **SheBuilds Hackathon** – Built empowerment tools and led frontend UI/UX development.  
+- 🥇 **Smart India Hackathon (SIH)** – Designed scalable solutions for MSMEs with backend + UX improvements.  
+- 💡 **SheBuilds Hackathon** – Built women empowerment tools and led frontend/UI development.  
 
 ---
 
 ## 📜 Certifications  
 
-✔️ Python Programming – *Guvi*  
-✔️ Machine Learning with Python – *Guvi*  
-✔️ AI for India 2.0 – *Guvi*  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananyax98&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyax98&layout=compact&theme=radical" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananyax98&theme=radical"/>
-</p>
-
----
-
-## 📈 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananyax98&theme=react-dark&hide_border=true&area=true"/>
-</p>
+📌 Python Programming – *Guvi*  
+📌 Machine Learning with Python – *Guvi*  
+📌 AI for India 2.0 – *Guvi*  
 
 ---
 
@@ -107,6 +89,12 @@
   <a href="mailto:ananyasingh.new.203@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ananya-singh-3a155224a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Ananyax98"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
 </p>
 
 ---
