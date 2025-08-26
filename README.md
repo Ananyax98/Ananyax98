@@ -63,13 +63,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananyax98&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyax98&layout=compact&theme=radical)  
-
----
-
 ## 🌐 Connect with Me  
 
 - 💼 [LinkedIn](https://linkedin.com/in/ananya-singh-3a155224a)  
