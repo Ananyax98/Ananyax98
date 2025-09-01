@@ -62,7 +62,6 @@
 
 ✈️ **TourAndTravels – Online Travel System**  
 🛫 Travel booking platform developed in **PHP + MySQL**, optimized for security & performance.  
-
 🗣️ **3D Conversational Web App with AI Avatar**  
 🤖 Created using **ZEPETO, Three.js, Google Speech API, gTTS, and PaLM-2/ChatGPT**. Hosted on **Vercel** with CI/CD pipelines.  
 
